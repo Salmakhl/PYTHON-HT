@@ -1,3 +1,4 @@
+
 ht=float(input("entrer le prix ht:"))
 c=str(input("entrer sa catégorie:"))
 match c:
